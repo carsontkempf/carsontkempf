@@ -50,6 +50,23 @@ A web application developed to manage and track workout routines efficiently. Th
 
 [View the Workout Database on GitHub](https://github.com/carsontkempf/WorkoutDatabase)
 
+### [Treehouse Booking Application](https://github.com/carsontkempf/RootsInnPlanning)
+
+An in-development Django web application for booking and managing treehouse accommodations. This project focuses on creating a scalable and efficient booking system while optimizing cloud infrastructure costs.
+
+Key Features and Design Process:
+	•	Cloud Cost Optimization: Achieved a 31.8% reduction in cloud costs by leveraging database normalization forms, implementing AWS server scheduling, and developing an image storage and compression algorithm.
+	•	Modular Django Applications: Developed separate, modular applications for managing bookings, payments, and the treehouse library. This structure allows for easier maintenance and feature expansion.
+	•	AWS Integration: Configured AWS RDS for database management and App Runner for efficient application deployment. This setup ensures high availability and performance.
+	•	Database Performance: Implemented normalization techniques to optimize query performance and maintain data integrity. Ensured scalable data handling with PostgreSQL and AWS RDS.
+	•	Technology Stack: Python, Django, PostgreSQL, AWS RDS, AWS App Runner, HTML/CSS/JavaScript.
+Design Approach:
+	•	Scalability and Performance: Focused on optimizing the backend and cloud infrastructure to support a growing user base and minimize operational costs.
+	•	Cloud Efficiency: Utilized server scheduling and efficient storage solutions to reduce resource usage and costs.
+	•	User-Focused Development: Designed with user experience in mind, ensuring an intuitive interface for booking and managing treehouse stays.
+
+[View the Workout Database on GitHub]((https://github.com/carsontkempf/RootsInnPlanning)
+
 
 ## 🎯 Seeking Opportunities In
 
