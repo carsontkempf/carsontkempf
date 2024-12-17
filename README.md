@@ -26,6 +26,7 @@ I'm a Computer Science student at Missouri University of Science and Technology,
 
 ## 📈 Current Focus
 
+- **Full-Stack Development**: Building fun applications!
 - **Django Development**: Building web applications focusing on backend development.
 - **Database Optimization**: Ensuring data is stored efficiently and securely.
 - **Cloud Integration**: Developing and deploying applications on AWS.
