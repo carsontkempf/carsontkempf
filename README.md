@@ -1,4 +1,6 @@
-# 👋 Hi there! I'm Carson Kempf
+# Hi, I'm Carson Kempf
+
+### [Check Out My Website](https://carsontkempf.github.io)
 
 I'm a Computer Science student at Missouri University of Science and Technology, graduating in December 2025, with a minor in Philosophy. I have a strong passion for databases, Python programming, and application development, focusing on backend frameworks.
 
@@ -18,14 +20,14 @@ I'm a Computer Science student at Missouri University of Science and Technology,
 - 🧠 Key interests include AI integration with databases and full-stack development.
 - 🌍 Open to collaborations on innovative projects that push the boundaries of technology.
 
-## 💡 Technical Skills
+## Technical Skills
 
 - **Languages**: Python, SQL, JavaScript, C++, C
 - **Frameworks**: Django, React
 - **Databases**: PostgreSQL
 - **Tools & Platforms**: Git, Docker, AWS, Azure, Linux, Unix, WSL, Jupyter Notebooks
 
-## 📈 Current Focus
+## Current Focus
 
 - **Full-Stack Development**: Building engaging applications.
 - **Django Development**: Developing web applications with a focus on backend development.
